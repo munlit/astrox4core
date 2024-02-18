@@ -106,7 +106,7 @@ git commit -m "Estructura"
   * Components/Header
 
 ````
-git remote add origin https://github.com/***/astrox4base.git
+git remote add origin https://github.com/munlit/astrox4core.git
 git commit -m "GitHub"
 ````
 
